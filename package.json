@@ -1,0 +1,11 @@
+{
+    "name": "concept-of-css",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+      "start": "npx serve"
+    },
+    "devDependencies": {
+      "serve": "^14.2.0"
+    }
+  }
