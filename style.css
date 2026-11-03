@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+
+}
+
+/* .root{
+    padding: 10px;
+
+} */
+
+
+h1{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    color: green;
+
+    /* border-width: 5px;
+    border-color: aliceblue;
+    border-style: dotted; */
+
+    border: 10px dotted green;
+    padding: 10px;
+
+    margin: 10px;
+
+}
+h2{
+    background-color: pink;
+    padding: 10px;
+    border: 2px solid blue;
+}
