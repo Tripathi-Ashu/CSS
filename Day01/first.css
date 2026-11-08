@@ -1,7 +1,6 @@
 *{
     margin: 0px;
     padding: 0px;
-    
 }
 
 h1{
@@ -17,12 +16,11 @@ h1{
     
 }
 
-
 h2{
     background-color: aliceblue;
     height: 300px;
     width: 300px;
-     border: 10px solid black;
+    border: 10px solid black;
     padding:20px;
     box-sizing: content-box;
 
@@ -37,5 +35,4 @@ span{
     padding-top: 20px;
     display: block; 
     
-
 }

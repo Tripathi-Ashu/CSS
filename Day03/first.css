@@ -1,0 +1,41 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* 1: static
+2: relative   privious index ke realtive  me purani place resirve rhati hai position : resirve
+3: fixed  Window ke relative me place chhod dete hai 
+4: absolute  free ho jata hai parant ke absolute hota hai 
+5: sticky 
+*/
+
+h2{
+    background-color: orange;
+    /* position:relative;
+    left: 100px;
+    top: 50px; */
+
+}
+
+h3{
+    background-color: pink;
+    /* position: fixed;  Window ke relative me fix krat ahai   */
+    top: 0px;
+    left: 50px;
+
+}
+
+h4{
+    background-color: brown;
+    position: sticky;
+    top: 0px;
+}
+
+p{
+    background-color: chartreuse;
+    position: absolute;
+    left: 50px;
+    top: 70px;
+}
